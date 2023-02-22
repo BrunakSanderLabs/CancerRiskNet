@@ -1,0 +1,30 @@
+{
+  "search_space": {
+    "metadata":["data/sample_diag_data.json"],
+    "train":[true],
+    "dev":[true],
+    "test":[false],
+    "epochs":[2],
+    "num_workers":[8],
+    "cuda":[true],
+    "hidden_dim":[256],
+    "model_name": ["transformer", "gru"],
+    "optimizer": ["adam"],
+    "init_lr":[1e-04],
+    "train_batch_size": [4],
+    "eval_batch_size": [4],
+    "num_heads":[8],
+    "max_batches_per_train_epoch": [5],
+    "max_batches_per_dev_epoch": [5],
+    "max_events_length": [1000],
+    "max_eval_indices": [10],
+    "pad_size": [200],
+    "exclusion_interval": [0,3,6],
+    "eval_auroc": [true],
+    "eval_auprc": [true],
+    "eval_c_index": [true],
+    "use_known_risk_factors": [true, false],
+    "data_setting_path": ["data/settings_sample_data.yaml"]
+  },
+  "available_gpus": [1]
+}

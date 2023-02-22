@@ -1,0 +1,403 @@
+PANC_CANCER_CODE:
+  - DC25
+  - DC250
+  - DC250M
+  - DC251
+  - DC251M
+  - DC252
+  - DC252M
+  - DC253
+  - DC253M
+  - DC254
+  - DC254M
+  - DC257
+  - DC257M
+  - DC258
+  - DC258M
+  - DC259
+  - DC259M
+  - DC259X
+  - '15709'
+  - '15780'
+  - '15781'
+  - '15789'
+  - '15799'
+KNOWN_RISK_FACTORS: 
+  - DC18
+  - DC180
+  - DC180A
+  - DC180M
+  - DC181
+  - DC181M
+  - DC182
+  - DC182M
+  - DC183
+  - DC183M
+  - DC184
+  - DC184M
+  - DC185
+  - DC185M
+  - DC186
+  - DC186M
+  - DC187
+  - DC187M
+  - DC188
+  - DC188A
+  - DC188M
+  - DC189
+  - DC189M
+  - DC189X
+  - DC34
+  - DC340
+  - DC340A
+  - DC340B
+  - DC340M
+  - DC341
+  - DC341M
+  - DC342
+  - DC342M
+  - DC343
+  - DC343M
+  - DC348
+  - DC348M
+  - DC349
+  - DC349M
+  - DC349X
+  - DC50
+  - DC500
+  - DC500A
+  - DC500B
+  - DC500C
+  - DC500D
+  - DC500M
+  - DC501
+  - DC501M
+  - DC502
+  - DC502M
+  - DC503
+  - DC503M
+  - DC504
+  - DC504M
+  - DC505
+  - DC505M
+  - DC506
+  - DC506M
+  - DC508
+  - DC508M
+  - DC509
+  - DC509M
+  - DC509X
+  - DC61
+  - DC619
+  - DC619M
+  - DC619X
+  - DC619Y
+  - DC619Z
+  - DE11
+  - DE110
+  - DE110A
+  - DE110B
+  - DE110C
+  - DE110D
+  - DE110E
+  - DE111
+  - DE112
+  - DE113
+  - DE114
+  - DE115
+  - DE115A
+  - DE115B
+  - DE115C
+  - DE115D
+  - DE116
+  - DE117
+  - DE118
+  - DE119
+  - DE119A
+  - DE780
+  - DE780A
+  - DE780B
+  - DE780B1
+  - DE780B2
+  - DE780C
+  - DE780D
+  - DE780E
+  - DE780F
+  - DE785
+  - DE84
+  - DE840
+  - DE841
+  - DE848
+  - DE848A
+  - DE849
+  - DF32
+  - DF320
+  - DF3200
+  - DF3201
+  - DF321
+  - DF3210
+  - DF3211
+  - DF322
+  - DF323
+  - DF3230
+  - DF3231
+  - DF328
+  - DF329
+  - DF329A
+  - DI10
+  - DI109
+  - DI82
+  - DI820
+  - DI821
+  - DI822
+  - DI822A
+  - DI822B
+  - DI823
+  - DI823A
+  - DI823B
+  - DI828
+  - DI829
+  - DI829A
+  - DI829B
+  - DK05
+  - DK050
+  - DK051
+  - DK051A
+  - DK051B
+  - DK051C
+  - DK051D
+  - DK052
+  - DK052A
+  - DK052B
+  - DK052C
+  - DK053
+  - DK053A
+  - DK053B
+  - DK054
+  - DK054A
+  - DK055
+  - DK056
+  - DK21
+  - DK210
+  - DK210A
+  - DK219
+  - DK219A
+  - DK219B
+  - DK27
+  - DK270
+  - DK271
+  - DK272
+  - DK273
+  - DK274
+  - DK275
+  - DK276
+  - DK277
+  - DK279
+  - DK50
+  - DK500
+  - DK500A
+  - DK500B
+  - DK500C
+  - DK500D
+  - DK501
+  - DK501A
+  - DK501B
+  - DK501C
+  - DK501D
+  - DK508
+  - DK508A
+  - DK508B
+  - DK508C
+  - DK508D
+  - DK509
+  - DK51
+  - DK510
+  - DK511
+  - DK512
+  - DK512A
+  - DK513
+  - DK513A
+  - DK514
+  - DK515
+  - DK515A
+  - DK515B
+  - DK518
+  - DK518A
+  - DK518B
+  - DK519
+  - DK52
+  - DK520
+  - DK520A
+  - DK520B
+  - DK520C
+  - DK521
+  - DK521A
+  - DK521B
+  - DK521C
+  - DK522
+  - DK522A
+  - DK522B
+  - DK522C
+  - DK522D
+  - DK522E
+  - DK522F
+  - DK523
+  - DK527
+  - DK527A
+  - DK527B
+  - DK528
+  - DK528A
+  - DK528B
+  - DK528C
+  - DK528D
+  - DK528D1
+  - DK528D2
+  - DK529
+  - DK529A
+  - DK529B
+  - DK529B1
+  - DK529C
+  - DK529D
+  - DK529E
+  - DK529F
+  - DK529G
+  - DK529H
+  - DK86
+  - DK860
+  - DK861
+  - DK861A
+  - DK861B
+  - DK861C
+  - DK861D
+  - DK861E
+  - DK861F
+  - DK862
+  - DK863
+  - DK868
+  - DK868A
+  - DK868B
+  - DK868C
+  - DK868D
+  - DK868E
+  - DK868F
+  - DK868G
+  - DK868H
+  - DK868I
+  - DK868J
+  - DK868K
+  - DK868L
+  - DK868M
+  - DK868N
+  - DK869
+  - DR17
+  - DR179
+  - DR63
+  - DR630
+  - DR631
+  - DR632
+  - DR633
+  - DR633A
+  - DR634
+  - DR635
+  - DR638
+  - DZ923
+  - DK850
+  - DK851
+  - DK851A
+  - DK852
+  - DK853
+  - DK858
+  - DK858A
+  - DK858B
+  - DK858C
+  - DK858D
+  - DK858E
+  - DK858F
+  - DK859
+  - DE10
+  - DE100
+  - DE101
+  - DE102
+  - DE103
+  - DE104
+  - DE105
+  - DE105A
+  - DE105B
+  - DE105C
+  - DE105D
+  - DE106
+  - DE107
+  - DE108
+  - DE109
+  - DE109A
+  - DE66
+  - DE660
+  - DE660A
+  - DE660B
+  - DE660C
+  - DE660E
+  - DE660F
+  - DE660G
+  - DE660H
+  - DE661
+  - DE662
+  - DE668
+  - DE669
+
+END_OF_TIME_DATE : 
+  - 2018-04-10
+ICD10_MAPPER_NAME:
+  - data/icd10_disease_descriptions.tsv
+ICD8_MAPPER_NAME:
+  - data/icd8_disease_descriptions.tsv
+ICD9_MAPPER_NAME:
+  - data/icd9_disease_descriptions.tsv
+
+chapterColors:
+        - [47, 207, 211]
+        - [158, 79, 70]
+        - [246, 158, 220]
+        - [255, 26, 185]
+        - [45, 201, 45]
+        - [0, 77, 230]
+        - [255, 193, 132]
+        - [167, 167, 249]
+        - [160, 12, 196]
+        - [98, 93, 93]
+        - [0, 132, 149]
+        - [114, 150, 86]
+        - [150, 8, 102]
+        - [249, 223, 30]
+        - [23, 206, 149]
+        - [18, 96, 27]
+        - [246, 132, 9]
+        - [0, 0, 123]
+        - [255, 0, 0]
+        - [183, 201, 75]
+        - [0, 0, 2]
+        - [207, 185, 151]
+
+DISEASE_HISTOGRAM:
+    DE11: Non-insulin dependent diabetes mellitus
+    '250': Non-insulin dependent diabetes mellitus
+    DE10: Insulin-dependent diabetes mellitus
+    '249': Insulin-dependent diabetes mellitus
+    DR17: Unspecified jaundice
+    '785': Unspecified jaundice
+    DK85: Acute pancreatitis
+    '577': Acute pancreatitis
+    DE78: Hypercholesterolemia
+    '279': Hypercholesterolemia
+    DR63: Weight loss and other food intake problems
+    '784': Weight loss and other food intake problems
+    DK86: Other diseases of the pancreas
+    DC18: Malignant neoplasm of colon
+    '153': Malignant neoplasm of colon
+    DC24: Malignant neoplasm in other and \nunspecified parts of bile ducts
+    '156': Malignant neoplasm in other and \nunspecified parts of bile ducts
+    DE66: Obesity
+    '277': Obesity
+    DK50: Inflammatory bowel disease
+    DK51: Inflammatory bowel disease
+    DK52: Inflammatory bowel disease
+    '563': Inflammatory bowel disease

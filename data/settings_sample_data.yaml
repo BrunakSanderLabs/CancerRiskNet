@@ -1,0 +1,340 @@
+PANC_CANCER_CODE:
+  - C25
+  - C253
+  - C252
+  - C259
+  - C250
+  - C251
+  - C258
+  - C254 
+  - C257
+  - '157'
+  - '1573'
+  - '1570'
+  - '1579'
+  - '1578'
+  - '1571'
+  - '1574' 
+  - '1572'
+  
+END_OF_TIME_DATE : 
+  - 2018-04-10
+ICD10_MAPPER_NAME:
+  - data/icd10_disease_descriptions.tsv
+ICD8_MAPPER_NAME:
+  - data/icd8_disease_descriptions.tsv
+ICD9_MAPPER_NAME:
+  - data/icd9_disease_descriptions.tsv
+
+chapterColors:
+        - [47, 207, 211]
+        - [158, 79, 70]
+        - [246, 158, 220]
+        - [255, 26, 185]
+        - [45, 201, 45]
+        - [0, 77, 230]
+        - [255, 193, 132]
+        - [167, 167, 249]
+        - [160, 12, 196]
+        - [98, 93, 93]
+        - [0, 132, 149]
+        - [114, 150, 86]
+        - [150, 8, 102]
+        - [249, 223, 30]
+        - [23, 206, 149]
+        - [18, 96, 27]
+        - [246, 132, 9]
+        - [0, 0, 123]
+        - [255, 0, 0]
+        - [183, 201, 75]
+        - [0, 0, 2]
+        - [207, 185, 151]
+
+DISEASE_HISTOGRAM:
+  E11: Type 2 diabetes mellitus
+  '250': Type 2 diabetes mellitus
+  E10: Type 1 diabetes mellitus
+  '249': Type 1 diabetes mellitus
+  R17: Unspecified jaundice
+  '7824': Unspecified jaundice
+  K85: Acute pancreatitis
+  '5770': Acute pancreatitis
+  E78: Hypercholesterolemia
+  '2720': Hypercholesterolemia
+  R63: Weight loss and other food intake problems
+  '783': Weight loss and other food intake problems
+  K86: Other diseases of the pancreas
+  '577': Other diseases of the pancreas
+  C18: Malignant neoplasm of colon
+  '153': Malignant neoplasm of colon
+  C24: Malignant neoplasm in other and \nunspecified parts of bile ducts
+  '156': Malignant neoplasm in other and \nunspecified parts of bile ducts
+  E66: Obesity
+  '278': Obesity
+  K50: Inflammatory bowel disease
+  K51: Inflammatory bowel disease
+  K52: Inflammatory bowel disease
+  '558': Inflammatory bowel disease
+  '556': Inflammatory bowel disease
+  '555': Inflammatory bowel disease
+
+
+KNOWN_RISK_FACTORS: 
+  - C18  
+  - C180
+  - C181
+  - C182
+  - C183
+  - C184
+  - C185
+  - C186
+  - C187
+  - C188
+  - C189
+  - C34  
+  - C340
+  - C341
+  - C342
+  - C343
+  - C348
+  - C349
+  - C50  
+  - C500
+  - C500A
+  - C500B
+  - C500C
+  - C500D
+  - C500M
+  - C501
+  - C501M
+  - C502
+  - C502M
+  - C503
+  - C503M
+  - C504
+  - C504M
+  - C505
+  - C505M
+  - C506
+  - C506M
+  - C508
+  - C508M
+  - C509
+  - C509M
+  - C509X
+  - C61  
+  - C619
+  - C619M
+  - C619X
+  - C619Y
+  - C619Z
+  - E11  
+  - E110
+  - E110A
+  - E110B
+  - E110C
+  - E110D
+  - E110E
+  - E111
+  - E112
+  - E113
+  - E114
+  - E115
+  - E115A
+  - E115B
+  - E115C
+  - E115D
+  - E116
+  - E117
+  - E118
+  - E119
+  - E119A
+  - E780
+  - E780A
+  - E780B
+  - E780B1
+  - E780B2
+  - E780C
+  - E780D
+  - E780E
+  - E780F
+  - E785
+  - E84  
+  - E840
+  - E841
+  - E848
+  - E848A
+  - E849
+  - F32  
+  - F320
+  - F3200
+  - F3201
+  - F321
+  - F3210
+  - F3211
+  - F322
+  - F323
+  - F3230
+  - F3231
+  - F328
+  - F329
+  - F329A
+  - I10
+  - I109
+  - I82
+  - I820
+  - I821
+  - I822
+  - I822A
+  - I822B
+  - I823
+  - I823A
+  - I823B
+  - I828
+  - I829
+  - I829A
+  - I829B
+  - K05
+  - K050
+  - K051
+  - K051A
+  - K051B
+  - K051C
+  - K051D
+  - K052
+  - K052A
+  - K052B
+  - K052C
+  - K053
+  - K053A
+  - K053B
+  - K054
+  - K054A
+  - K055
+  - K056
+  - K21  
+  - K210
+  - K210A
+  - K219
+  - K219A
+  - K219B
+  - K27  
+  - K270
+  - K271
+  - K272
+  - K273
+  - K274
+  - K275
+  - K276
+  - K277
+  - K279
+  - K50  
+  - K500
+  - K500A
+  - K500B
+  - K500C
+  - K500D
+  - K501
+  - K501A
+  - K501B
+  - K501C
+  - K501D
+  - K508
+  - K508A
+  - K508B
+  - K508C
+  - K508D
+  - K509
+  - K51  
+  - K510
+  - K511
+  - K512
+  - K512A
+  - K513
+  - K513A
+  - K514
+  - K515
+  - K515A
+  - K515B
+  - K518
+  - K518A
+  - K518B
+  - K519
+  - K52  
+  - K520
+  - K520A
+  - K520B
+  - K520C
+  - K521
+  - K521A
+  - K521B
+  - K521C
+  - K522
+  - K522A
+  - K522B
+  - K522C
+  - K522D
+  - K522E
+  - K522F
+  - K523
+  - K527
+  - K527A
+  - K527B
+  - K528
+  - K528A
+  - K528B
+  - K528C
+  - K528D
+  - K528D1
+  - K528D2
+  - K529
+  - K529A
+  - K529B
+  - K529B1
+  - K529C
+  - K529D
+  - K529E
+  - K529F
+  - K529G
+  - K529H
+  - K86  
+  - K860
+  - K861
+  - K862
+  - K863
+  - K868
+  - K869
+  - R17  
+  - R179
+  - R63  
+  - R630
+  - R631
+  - R632
+  - R633
+  - R634
+  - R635
+  - R638
+  - Z923
+  - K850
+  - K851
+  - K852
+  - K853
+  - K858
+  - K859
+  - E10  
+  - E100
+  - E101
+  - E102
+  - E103
+  - E104
+  - E105
+  - E106
+  - E107
+  - E108
+  - E109
+  - E66  
+  - E660
+  - E661
+  - E662
+  - E668
+  - E669
